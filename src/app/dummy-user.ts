@@ -7,7 +7,7 @@ export const DUMMY_USERS = [
   {
     id: 'u2',
     name: 'Ahmed Amer',
-    avatar: 'https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-6/417405847_912051123660447_3114863802011576663_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=sCRXR8PkYMwQ7kNvwHugMSS&_nc_oc=AdmWjnB_bN8x-roIMsq86POXTUN429BsD0eiSM2cMhRJmN5sFB5lBkApeCfxxPbEXk0&_nc_zt=23&_nc_ht=scontent.fcai19-8.fna&_nc_gid=vpZaw2blHnaKDBJbfB1ZFg&oh=00_AfLa32qmKubPCfGGdsQvDuoBQnka_6kPborwaPRryzBtRw&oe=68324EDA',
+    avatar: 'https://media.licdn.com/dms/image/v2/C4D03AQEllnQfWd31dg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1647950386817?e=1753920000&v=beta&t=kyzlsWVhzvY8-PaCzNS-phQ5qtWJI0mepsq8ahzlb5c',
   },
   {
     id: 'u3',
